@@ -1,0 +1,15 @@
+---
+title: "Controlling a Low Cost Bang Bang Pneumatic Monopod"
+collection: publications
+permalink: /Publications/ControllingALowCostBangBangPneumaticMonopod
+excerpt: 'To date there have been great advances in the legged robotics community. However, these platforms are extremely costly to develop and require complex controllers to perform agile motion, limiting their research to well funded institutions, or purely simulation based studies. This research focuses on an extremely low cost robotic monopod platform that consists of a high powered servo motor as well as a pneumatic actuator. Due to the on/off (bang bang) nature of pneumatics, the platform is challenging to mathematically model. Using a reduced order model of the pneumatic actuator, trajectory optimization methods were implemented to generate acceleration, steady-state and deceleration trajectories. These were then analyzed and a simple state machine controller was developed to implement these trajectories on the robotic platform, with comparisons to the simulation results. In order to test the capabilities of the monopod robot, the above method was further extended with the robot running on multiple different surfaces (hard surface as well as two different gravel surfaces). Results are promising and reveal that simple models and controllers are sufficient to generate stable transient motions for a legged robot running on non-uniform terrain.'
+date: 2022-01-01
+venue: 'SAIEE Africa Research Journal'
+paperurl: 'https://ieeexplore.ieee.org/document/9945866'
+citation: 'C. Fisher and J. Meyer, "Controlling a low cost bang bang pneumatic monopod," in SAIEE Africa Research Journal, vol. 113, no. 4, pp. 165-170, Dec. 2022, doi: 10.23919/SAIEE.2022.9945866.'
+---
+Abstract: To date there have been great advances in the legged robotics community. However, these platforms are extremely costly to develop and require complex controllers to perform agile motion, limiting their research to well funded institutions, or purely simulation based studies. This research focuses on an extremely low cost robotic monopod platform that consists of a high powered servo motor as well as a pneumatic actuator. Due to the on/off (bang bang) nature of pneumatics, the platform is challenging to mathematically model. Using a reduced order model of the pneumatic actuator, trajectory optimization methods were implemented to generate acceleration, steady-state and deceleration trajectories. These were then analyzed and a simple state machine controller was developed to implement these trajectories on the robotic platform, with comparisons to the simulation results. In order to test the capabilities of the monopod robot, the above method was further extended with the robot running on multiple different surfaces (hard surface as well as two different gravel surfaces). Results are promising and reveal that simple models and controllers are sufficient to generate stable transient motions for a legged robot running on non-uniform terrain.
+
+[Download paper here](http://Callen-Fisher.github.io/Publications/ControllingALowCostBangBangPneumaticMonopod.pdf)
+
+
