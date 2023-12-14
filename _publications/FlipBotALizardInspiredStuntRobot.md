@@ -2,14 +2,14 @@
 title: "FlipBot: A Lizard Inspired Stunt Robot"
 collection: publications
 permalink: /Publications/FlipBotALizardInspiredStuntRobot
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2019-10-01
+excerpt: 'Inspired by the acrobatics of the lizard, we present a novel robot platform capable of performing a barrel roll from a ramp. The system is modeled using Euler-Lagrange mechanics, followed by controller design and numerical simulation. A robotic platform is then designed to perform the experiments. Finally, we show that purely by the use of the actuated tail, the robot can rapidly performing a 360 degree roll rotation in under a second.'
+date: 2014-01-01
 venue: 'Journal 1'
 paperurl: 'http://Callen-Fisher.github.io/Publications/FlipBotALizardInspiredStuntRobot.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Fisher, C., and A. Patel. "Preparation of papers for ifac conferences & symposia: Flipbot: A lizard inspired stunt robot." IFAC Proceedings Volumes 47.3 (2014): 4837-4842.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+Abstract: Inspired by the acrobatics of the lizard, we present a novel robot platform capable of performing a barrel roll from a ramp. The system is modeled using Euler-Lagrange mechanics, followed by controller design and numerical simulation. A robotic platform is then designed to perform the experiments. Finally, we show that purely by the use of the actuated tail, the robot can rapidly performing a 360 degree roll rotation in under a second.
 
 [Download paper here](http://Callen-Fisher.github.io/Publications/FlipBotALizardInspiredStuntRobot.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Fisher, C., and A. Patel. "Preparation of papers for ifac conferences & symposia: Flipbot: A lizard inspired stunt robot." IFAC Proceedings Volumes 47.3 (2014): 4837-4842.
