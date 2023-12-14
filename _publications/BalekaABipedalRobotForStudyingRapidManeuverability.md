@@ -1,0 +1,15 @@
+---
+title: "Baleka: A Bipedal Robot for Studying Rapid Maneuverability"
+collection: publications
+permalink: /Publications/BalekaABipedalRobotForStudyingRapidManeuverability
+excerpt: 'In nature animals are highly adapted to perform rapid maneuvers. However, these maneuvers have generally been avoided by robotics researchers due to the complex (and poorly-understood) dynamics they entail. To improve the agility of the current state-of-the-art robots, highly agile platforms need to be developed capable of performing these maneuvers. Due to the complexities involved, robotics researchers need to leverage trajectory optimization techniques to inspire and aid in designing and controlling these platforms. Presented here is the optimization-inspired design and testing of an agile bipedal robot called Baleka, which has specifically been designed for rapid acceleration and gait termination. By using the Vertical Agility metric (VA), experimental results show that Baleka is one of the most agile biped robots. Baleka achieved a vertical agility of 1.86 m/s (for the biped) and 1.82 m/s (for the monopod). When leaping with a single leg, Baleka achieved a vertical agility of 1.33 m/s, surpassing that of humans (0.89 m/s). These results indicate the power of using trajectory optimization methods to aid in the mechanical design process and prove Baleka's suitability for future rapid transient maneuver studies.'
+date: 2020-01-01
+venue: 'Frontiers in Mechanical Engineering'
+paperurl: 'https://www.frontiersin.org/articles/10.3389/fmech.2020.00054/full'
+citation: 'Fisher, Callen, Alexander Blom, and Amir Patel. "Baleka: A bipedal robot for studying rapid maneuverability." Frontiers in Mechanical Engineering 6 (2020): 54.'
+---
+Abstract: In nature animals are highly adapted to perform rapid maneuvers. However, these maneuvers have generally been avoided by robotics researchers due to the complex (and poorly-understood) dynamics they entail. To improve the agility of the current state-of-the-art robots, highly agile platforms need to be developed capable of performing these maneuvers. Due to the complexities involved, robotics researchers need to leverage trajectory optimization techniques to inspire and aid in designing and controlling these platforms. Presented here is the optimization-inspired design and testing of an agile bipedal robot called Baleka, which has specifically been designed for rapid acceleration and gait termination. By using the Vertical Agility metric (VA), experimental results show that Baleka is one of the most agile biped robots. Baleka achieved a vertical agility of 1.86 m/s (for the biped) and 1.82 m/s (for the monopod). When leaping with a single leg, Baleka achieved a vertical agility of 1.33 m/s, surpassing that of humans (0.89 m/s). These results indicate the power of using trajectory optimization methods to aid in the mechanical design process and prove Baleka's suitability for future rapid transient maneuver studies.
+
+[Download paper here](http://Callen-Fisher.github.io/Publications/BalekaABipedalRobotForStudyingRapidManeuverability.pdf)
+
+
