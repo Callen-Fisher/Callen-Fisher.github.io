@@ -62,7 +62,7 @@ Modules Taught
   
 Service, Committees and Leadership
 ======
-* Volunteer Wildfire Services
+* [Volunteer Wildfire Services](https://vws.org.za/)
 	* Assistant crew leader
 	* Member since 2018
 	* Training Manager in 2022
