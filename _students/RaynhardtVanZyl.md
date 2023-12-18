@@ -4,7 +4,7 @@ collection: students
 type: "Talk"
 permalink: /students/RaynhardtVanZyl
 venue: "Stellenbosch University, MEng"
-date: 2023-03-01
+date: 2023-12-01
 location: "Stellenbosch University, MEng"
 ---
 
