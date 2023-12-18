@@ -1,6 +1,6 @@
 ---
 title: "Dima"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/Dima.jpg'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/Dima.jpg' width='200'>"
 collection: projects
 ---
 
