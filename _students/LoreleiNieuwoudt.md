@@ -3,9 +3,9 @@ title: "Lorelei Nieuwoudt"
 collection: students
 type: "Studied"
 permalink: /students/LoreleiNieuwoudt
-venue: "Stellenbosch University, MEng"
+venue: "Stellenbosch University"
 date: 2023-12-01
-location: "Stellenbosch University, MEng"
+location: "MEng"
 ---
 
 
