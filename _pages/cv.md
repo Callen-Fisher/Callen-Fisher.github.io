@@ -24,7 +24,7 @@ Work experience
 
 * Lecturer: 2019 to present
   * Stellenbosch University
-  * Promoted to Senior Lecturer in Jan 2022
+  * Promoted to Senior Lecturer in January 2022
   
 Awarded Funding Grants
 ======
@@ -60,6 +60,13 @@ Modules Taught
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service, Committees and Leadership
 ======
-* Currently signed in to 43 different slack teams
+* Volunteer Wildfire Services
+	* Assistant crew Leader
+	* Member since 2018
+	* Training Manager in 2022
+* Management Committee for EE Engineering, Stellenbosch University
+	* Rotating member for 2023 and 2024
+* [SACAC (South African Council for Automation and Control)](https://sacac.org.za/)
+	* EXCO member since 2023
