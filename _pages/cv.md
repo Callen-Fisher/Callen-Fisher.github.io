@@ -17,24 +17,30 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Part-time lecturing: 2017-2018
+  * University of Cape Town
+  * Lectured Mechatronics design and Intros to Micros
+  * Supervised 4th year projects
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Lecturer: 2019 to present
+  * Stellenbosch University
+  * Promoted to Senior Lecturer in Jan 2022
   
-Skills
+Awarded Funding Grants
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Rehana Malgas-Enus Award (2024)#: R35 000
+* Strategic Fund (2024)
+	* Grant to hire a lecturer for three years
+* FINLO grant (2023-2024)#: R45 700
+* Rehana Malgas-Enus Award (2023)#: R20 000
+* AHG Health project funding (2022-2023)#: R91 000
+* NRF Thuthuka Funding (2021-2023)#: R450 000
+* Sub-Comm B funding (2020)#: R70 000
+* NRF scarce skills extension funding for PhD Research (2019)
+* IEEE/RSJ travel grant to attend IROS (2017)
+* NRF scarce skills funding for PhD Research (2016-2018)
+* IEEE/RSJ travel grant to attend IROS (2015)
+* NRF scarce skills funding for MSc Research (2014-2015)
 
 Publications
 ======
@@ -48,7 +54,7 @@ Postgraduate Students (Graduated)
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Modules Taught
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
