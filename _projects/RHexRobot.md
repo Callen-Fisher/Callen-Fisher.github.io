@@ -1,6 +1,6 @@
 ---
 title: "RHex Style Robot With Drone"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/RHex.jpg'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/RHex.jpg' width='400'>"
 collection: projects
 ---
 

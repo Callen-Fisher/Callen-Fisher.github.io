@@ -1,6 +1,6 @@
 ---
 title: "Q-Bert"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/QBert.jpg'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/QBert.jpg' width='400'>"
 collection: projects
 ---
 

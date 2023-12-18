@@ -1,6 +1,6 @@
 ---
 title: "Linear Actuator Quadruped Robot"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/LinearQuad.jpg'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/LinearQuad.jpg' width='400'>"
 collection: projects
 ---
 

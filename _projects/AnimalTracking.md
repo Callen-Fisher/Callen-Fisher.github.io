@@ -1,6 +1,6 @@
 ---
 title: "Animal Tracking"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/AnimalTracking.jpeg' width='200'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/AnimalTracking.jpeg' width='400'>"
 collection: projects
 ---
 

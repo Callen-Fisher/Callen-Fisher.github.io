@@ -1,6 +1,6 @@
 ---
 title: "Pneumatic Robotics"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/PhDRobot.jpg'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/PhDRobot.jpg' width='400'>"
 collection: projects
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Baleka"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/Baleka.jpg'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/Baleka.jpg' width='400'>"
 collection: projects
 ---
 
