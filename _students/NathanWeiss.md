@@ -1,11 +1,11 @@
 ---
 title: "Nathan Weiss"
 collection: students
-type: "Talk"
+type: "Studied"
 permalink: /students/NathanWeiss
-venue: "Stellenbosch University, MEng"
+venue: "Stellenbosch University"
 date: 2023-03-01
-location: "Stellenbosch University, MEng"
+location: "MEng"
 ---
 
 

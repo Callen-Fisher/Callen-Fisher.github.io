@@ -1,11 +1,11 @@
 ---
 title: "Raynhard Van Zyl"
 collection: students
-type: "Talk"
+type: "Studied"
 permalink: /students/RaynhardtVanZyl
-venue: "Stellenbosch University, MEng"
+venue: "Stellenbosch University"
 date: 2023-12-01
-location: "Stellenbosch University, MEng"
+location: "MEng"
 ---
 
 

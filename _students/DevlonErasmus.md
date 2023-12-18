@@ -1,11 +1,11 @@
 ---
 title: "Devlon Erasmus"
 collection: students
-type: "Talk"
+type: "Studied"
 permalink: /students/DevlonErasmus
-venue: "Stellenbosch University, MEng"
+venue: "Stellenbosch University"
 date: 2023-03-01
-location: "Stellenbosch University, MEng"
+location: "MEng"
 ---
 
 

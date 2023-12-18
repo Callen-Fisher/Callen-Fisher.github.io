@@ -1,11 +1,11 @@
 ---
 title: "Dean Pretorius"
 collection: students
-type: "Talk"
+type: "Studied"
 permalink: /students/DeanPretorius
-venue: "Stellenbosch University, MEng"
+venue: "Stellenbosch University"
 date: 2022-04-01
-location: "Stellenbosch University, MEng"
+location: "MEng"
 ---
 
 
