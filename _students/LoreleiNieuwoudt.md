@@ -1,7 +1,7 @@
 ---
 title: "Lorelei Nieuwoudt"
 collection: students
-type: "Talk"
+type: "Studied"
 permalink: /students/LoreleiNieuwoudt
 venue: "Stellenbosch University, MEng"
 date: 2023-12-01
