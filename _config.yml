@@ -184,7 +184,7 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-  talks:
+  students:
     output: true
     permalink: /:collection/:path/
 
@@ -236,10 +236,10 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _students
   - scope:
       path: ""
-      type: talks
+      type: students
     values:
       layout: talk
       author_profile: true
