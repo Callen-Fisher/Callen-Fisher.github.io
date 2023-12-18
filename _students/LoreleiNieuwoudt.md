@@ -4,7 +4,7 @@ collection: students
 type: "Studied"
 permalink: /students/LoreleiNieuwoudt
 venue: "Stellenbosch University"
-date: 2023-12
+date: 2023-12-01
 location: "MEng"
 ---
 
