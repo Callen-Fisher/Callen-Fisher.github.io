@@ -63,10 +63,14 @@ Modules Taught
 Service, Committees and Leadership
 ======
 * Volunteer Wildfire Services
-	* Assistant crew Leader
+	* Assistant crew leader
 	* Member since 2018
 	* Training Manager in 2022
 * Management Committee for EE Engineering, Stellenbosch University
 	* Rotating member for 2023 and 2024
 * [SACAC (South African Council for Automation and Control)](https://sacac.org.za/)
 	* EXCO member since 2023
+* Safety rep in the Mechanical Engineering department, Stellenbosch University
+* Social impact committee member, Stellenbosch University
+* Level 3 first aid
+
