@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Mechatronics, University of Cape Town, 2013
+* M.Sc in Electrical Engineering, University of Cape Town, 2015, [Dissertation link](https://open.uct.ac.za/items/007b7151-13ef-4278-b7c5-7eb8415c1788)
+* Ph.D in Electrical Engineering, University of Cape Town, 2021, [Dissertation link](https://open.uct.ac.za/items/c0520e60-a0d3-4aa2-982b-beefe3668244)
 
 Work experience
 ======
