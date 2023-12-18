@@ -1,7 +1,13 @@
 ---
 title: "Animal Tracking"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/AnimalTracking.jpeg' width='400'>"
+excerpt: "THIS PROJECT PAGE IS STILL UNDER CONSTRUCTION<br/><img src='/images/AnimalTracking.jpeg' width='400'>"
 collection: projects
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Things to mention in this project 
+
+- My MSC
+- Publications
+- Brad stocks and Do Yeou
+- Multiple approaches, IMU sensors, backwards cameras
+- Cheetah fur testing and publication 

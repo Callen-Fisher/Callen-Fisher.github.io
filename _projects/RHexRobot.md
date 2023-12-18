@@ -1,7 +1,10 @@
 ---
 title: "RHex Style Robot With Drone"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/RHex.jpg' width='400'>"
+excerpt: "THIS PROJECT PAGE IS STILL UNDER CONSTRUCTION<br/><img src='/images/RHex.jpg' width='400'>"
 collection: projects
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Things to mention in this project 
+
+- Kyle contribution and the link to his two publications
+- Raynhards contribution to heterogeneous compute and a link to his MEng and publication 
