@@ -1,7 +1,7 @@
 ---
 title: "Temp"
 collection: patents
-permalink: /Patents/temp
+permalink: /patents/temp
 excerpt: 'AHHH'
 date: 2021-05-01
 venue: 'International Conference on Robotics and Automation (ICRA)'
